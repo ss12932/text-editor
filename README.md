@@ -18,7 +18,7 @@ A text editor web progressive application that runs in the browser, on and offli
 
 ## Deployed Link
 
-https://github.com/ss12932/text-editor
+https://serene-scrubland-84320.herokuapp.com/
 
 ## Github Repository Link
 
@@ -26,7 +26,7 @@ https://github.com/ss12932/text-editor
 
 ## Screenshot
 
-![screenshot](./src/images/screenshot.png)
+![screenshot](./client/src/images/screenshot.png)
 
 ## Installation
 
